@@ -13,7 +13,7 @@ Example detections <br>
 <br>
 <br>
 
-<u>Components</u>
-coco.names: Contains names of all objects the model can detect.
-frozen_inference_graph.pb: The weights file storing the trained model parameters.
-ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt: Configuration file with parameters for the SSD MobileNet model.
+<u>Components</u></br>
+coco.names: Contains names of all objects the model can detect.</br>
+frozen_inference_graph.pb: The weights file storing the trained model parameters.</br>
+ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt: Configuration file with parameters for the SSD MobileNet model.</br>
