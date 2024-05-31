@@ -3,7 +3,7 @@ Object Detection using OpenCV
 OpenCV offers methods for object detection using various models, providing confidence thresholds and bounding box coordinates. It can also apply Non-maximum Suppression (NMS) to avoid multiple detections of the same object, keeping the detection with the highest confidence.
 
 Example detections <br>
-![Test](https://github.com/VirajVaitha123/Object-Detection-/blob/master/Images/SampleDetection.png)
+![Test](https://github.com/SahnawazShaban/ObjecTrack/blob/main/object-detetection-using-opencv-master/sample/Sample_Detection_image.png)
 
 
 ## Credit to Murtazahassan for his tutorial on Object Detection 
